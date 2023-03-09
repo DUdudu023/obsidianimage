@@ -1,0 +1,2 @@
+# obsidianimage
+save note images
